@@ -4,15 +4,21 @@ Background:
 
 
 **Acceptance criteria**
-  Verification of "Carbon credits" value in "Name" property
-  Verification of boolean value as 'true' in "CanRelist" property
-  To verify that the Promotions element with Name = "Gallery" has a Description that contains the text "Good position in category"
+
+  1. Verification of "Carbon credits" value in "Name" property
+  
+  2. Verification of boolean value as 'true' in "CanRelist" property
+  
+  3. To verify that the Promotions element with Name = "Gallery" has a Description that contains the text "Good position in category"
 
 **Built with**
+
 Java, RestAssured Maven,TestNG,Intellij
 
 **Prerequisites**
+
 Since test scripts are created in apache maven project, so maven should be installed and configured in local system on which the tests are going to be executed.
+
 TestNG framework should be configured in Intellij
 
 **Script Execution:**
